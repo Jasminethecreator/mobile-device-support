@@ -6,7 +6,7 @@ Prepare an iPad and laptop for business travel by configuring security, wireless
  
 ## Scenario
  
-This lab simulated preparing a marketing director's mobile devices for an upcoming business conference. It involved configuring the iPad's security and connectivity settings, and resolving a wireless connectivity issue on the assigned laptop.
+This lab simulated preparing a marketing director's mobile devices for an upcoming business conference. It involved configuring the iPad's security and connectivity settings and resolving a wireless connectivity issue on the assigned laptop.
  
 ## Tasks Completed
  
@@ -19,7 +19,6 @@ This lab simulated preparing a marketing director's mobile devices for an upcomi
 - Identified a non-functioning integrated wireless adapter on a laptop.
 - Installed a USB wireless adapter to restore connectivity.
 - Configured power settings to improve battery efficiency.
-- 
 ## Skills Demonstrated
  
 - Mobile Device Support
@@ -29,10 +28,9 @@ This lab simulated preparing a marketing director's mobile devices for an upcomi
 - Hardware Troubleshooting
 - Power Management
 - Device Setup
-- 
 ## What I Learned
  
-This was my first time setting up mobile device security policies from scratch. The passcode timeout and auto-wipe settings especially made me think about how much damage a lost device could do if those weren't configured. Picking the right USB adapter also took some research since not every adapter would've worked with the laptop's specs.
+This was my first time setting up mobile device security policies from scratch. The passcode timeout and auto-wipe settings especially made me think about how much damage a lost device could do if those protections weren't configured. Installing the USB wireless adapter also helped me better understand how replacement hardware can be used to restore functionality when an integrated component is not working properly.
  
 ## Lab Environment
  
